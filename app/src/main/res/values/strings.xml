@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">លេខខណ្ឌភ្នំពេញ</string>
+    <string name="about">អំពីកម្មវិធី</string>
+    <string name="web">កម្មវិធីច្រើនទៀត</string>
+    <string name="exit">ចាកចេញ</string>
+    <string name="yes">បាទ</string>
+    <string name="ask">ចង់បិទកម្មវិធីនេះ?</string>
+    <string name="no">អត់ចង់</string>
+    <string name="senSok">ខណ្ឌសែនសុខ</string>
+    <string name="dounPenh">ខណ្ឌដូនពេញ</string>
+    <string name="reseyKeo">ខណ្ឌឬស្សីកែវ</string>
+    <string name="chroyChangva">ខណ្ឌជ្រោយចង្វារ </string>
+    <string name="meanChey">ខណ្ឌមានជ័យ</string>
+    <string name="toulkork">ខណ្ឌទួលគោក </string>
+    <string name="chomkamorn">ខណ្ឌចំការមន</string>
+    <string name="cbaOmpov">ខណ្ឌច្បាអំពៅ </string>
+    <string name="preakPnov">ខណ្ឌព្រែកព្នៅ</string>
+    <string name="makaRa">ខណ្ឌ៧មករា</string>
+    <string name="senChey">ខណ្ឌពោធិ៏សែនជ័យ</string>
+    <string name="dongKor">ខណ្ឌដង្កោ</string>
+    <string name="rate">វាយតំលៃក្មវិធី</string>
+    <string name="admob">ca-app-pub-8909864912435292/3307959363</string>
+
+
+
+</resources>
